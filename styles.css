@@ -37,7 +37,6 @@ body {
   100% { transform: rotate(360deg); }
 }
 
-/* Canva adds this. It’s safe to keep or remove. */
 @view-transition {
   navigation: auto;
 }
